@@ -13,7 +13,9 @@ These visualizations should be run in jupyter (I use jovian). <br />
 
 ## Avg Challenger Win Rate
 https://jovian.ai/pkwak1/riot-api-test
-This is the overall average in challenger elo: 18.32
+Files referenced: riot-api-test.py
+
+This is the overall average in challenger elo: 17.72
 
 This is the top 20 win rates in challenger elo, win rate with respect to win loss percentage as of 11/24
 
