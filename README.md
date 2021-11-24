@@ -22,6 +22,8 @@ This is the top 20 win rates in challenger elo, win rate with respect to win los
 Notebook Image
 ![alt text](https://github.com/pkwak1/TFT-Study/blob/main/img/challenger_win_rate_11_24_2021.PNG?raw=true)
 
+X-axis names: chunkypapa, iCopyKeane, TSM FTX Souless, enaek, iG Noobowl, Ramblinnn, Milk Guy, JimLoveAngie, Velayy, digitalotus, gaozi, TSM FTX Kiyoon, prin2, HuluBro I 98, Souless, plumbum, poisonpirate, Pivot Valorant, xiaoheQ
+
 ## Example2
 ## Third Example
 ## [Fourth Example](http://www.fourthexample.com) 
