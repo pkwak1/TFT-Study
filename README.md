@@ -11,5 +11,3 @@ This is the top 20 win rates in challenger elo, win rate with respect to win los
 
 Notebook Image
 ![alt text](https://github.com/pkwak1/TFT-Study/blob/main/img/challenger_win_rate.png?raw=true)
-
-Not sure how to remove the scroll in jovian output, b/c it's removed in jupyterhub using binder
