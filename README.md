@@ -1,6 +1,6 @@
 # TFT-Study
 
-The code in here is to ensure some versioning in git
+The code in here is to ensure some versioning in git.
 These visualizations should be run in jupyter (I use jovian)
 
 **Avg Challenger Win Rate**
