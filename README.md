@@ -15,10 +15,10 @@ These visualizations should be run in jupyter (I use jovian). <br />
 https://jovian.ai/pkwak1/riot-api-test
 This is the overall average in challenger elo: 18.32
 
-This is the top 20 win rates in challenger elo, win rate with respect to win loss percentage
+This is the top 20 win rates in challenger elo, win rate with respect to win loss percentage as of 11/24
 
 Notebook Image
-![alt text](https://github.com/pkwak1/TFT-Study/blob/main/img/challenger_win_rate.png?raw=true)
+![alt text](https://github.com/pkwak1/TFT-Study/blob/main/img/challenger_win_rate_11_24_2021.PNG?raw=true)
 
 ## Example2
 ## Third Example
