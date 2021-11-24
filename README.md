@@ -5,7 +5,7 @@ These visualizations should be run in jupyter (I use jovian). <br />
 (Also, use your own riot api key if you'd like to reference the same queries I use) <br />
 
 # Table of Contents
-1. [Does high elo equate to a high win rate?](#Avg Challenger Win Rate)
+1. [Does high elo equate to a high win rate?]("#Avg Challenger Win Rate")
 2. [Example2](#example2)
 3. [Third Example](#third-example)
 4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
