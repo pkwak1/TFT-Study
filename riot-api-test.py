@@ -31,13 +31,13 @@ jovian.commit(project="riot-api-test")
 # In[209]:
 
 
-requests.get("https://na1.api.riotgames.com/tft/league/v1/challenger?api_key=RGAPI-49ceb3ce-47ea-443e-b9c3-0316c244645d")
+requests.get("https://na1.api.riotgames.com/tft/league/v1/challenger?api_key=RGAPI-XXXXX")
 
 
 # In[210]:
 
 
-response = requests.get("https://na1.api.riotgames.com/tft/league/v1/challenger?api_key=RGAPI-49ceb3ce-47ea-443e-b9c3-0316c244645d")
+response = requests.get("https://na1.api.riotgames.com/tft/league/v1/challenger?api_key=RGAPI-XXXXX")
 data = response.json()
 print(data)
 
