@@ -1,7 +1,8 @@
 # TFT-Study
 
 The code in here is to ensure some versioning in git.
-These visualizations should be run in jupyter (I use jovian)
+These visualizations should be run in jupyter (I use jovian).
+(Also, use your own riot api key if you'd like to reference the same queries I use)
 
 **Avg Challenger Win Rate**
 https://jovian.ai/pkwak1/riot-api-test
