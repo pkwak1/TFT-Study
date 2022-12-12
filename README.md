@@ -15,7 +15,11 @@ These visualizations should be run in jupyter (I use jovian). <br />
 https://jovian.ai/pkwak1/riot-api-test
 Files referenced: riot-api-test.py
 
-This is the overall average in challenger elo: 17.72
+The question here is, do top players have a high 'win rate'? 
+The hypothesis here is does it take a lot of firsts to reach high elo, or is it simply a lot of top 4 games? What effects does that have on the system?
+I classify a win as a first place.
+
+This is the overall average in challenger elo: 17.72% as of 11/24
 
 This is the top 20 win rates in challenger elo, win rate with respect to win loss percentage as of 11/24
 
